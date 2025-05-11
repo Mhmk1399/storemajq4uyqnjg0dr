@@ -147,10 +147,10 @@
       "type": "header"
     },
     "children": {
-       "metaData":{
-      "title":"juju",
-      "description":"juju page"
-    },
+      "metaData": {
+        "title": "juju",
+        "description": "juju page"
+      },
       "sections": [
         {
           "type": "SlideBanner",
@@ -418,68 +418,70 @@
             "paddingRight": "10"
           }
         },
-{
-  "type": "CanvasEditor",
-  "setting": {
-    "paddingTop": "20",
-    "paddingBottom": "20",
-    "paddingLeft": "20",
-    "paddingRight": "20",
-    "marginTop": "30",
-    "marginBottom": "30",
-    "backgroundColor": "#ffffff"
-  },
-  "blocks": {
-    "elements": [
-      {
-        "id": "default-heading",
-        "type": "heading",
-        "content": "عنوان جدید",
-        "style": {
-          "x": 50,
-          "y": 50,
-          "width": 300,
-          "height": 60,
-          "fontSize": 24,
-          "fontWeight": "bold",
-          "color": "#000000",
-          "backgroundColor": "transparent",
-          "borderRadius": 0,
-          "padding": 0,
-          "textAlign": "right",
-          "zIndex": 1
-        }
-      },
-      {
-        "id": "default-paragraph",
-        "type": "paragraph",
-        "content": "این یک متن نمونه است. شما می‌توانید این متن را ویرایش کنید یا المان‌های جدید به صفحه اضافه کنید.",
-        "style": {
-          "x": 50,
-          "y": 130,
-          "width": 400,
-          "height": 100,
-          "fontSize": 16,
-          "fontWeight": "normal",
-          "color": "#333333",
-          "backgroundColor": "transparent",
-          "borderRadius": 0,
-          "padding": 0,
-          "textAlign": "right",
-          "zIndex": 1
-        }
-      }
-    ],
-    "setting": {
-      "canvasWidth": "100%",
-      "canvasHeight": "500px",
-      "backgroundColor": "#f9fafb",
-      "gridSize": 10,
-      "showGrid": false
-    }
-  }
-},
-
+        {
+          "type": "CanvasEditor",
+          "setting": {
+            "paddingTop": "20",
+            "paddingBottom": "20",
+            "paddingLeft": "20",
+            "paddingRight": "20",
+            "marginTop": "30",
+            "marginBottom": "30",
+            "backgroundColor": "#ffffff"
+          },
+          "blocks": {
+            "elements": [
+              {
+                "id": "37e2b243-97b9-47f6-aa50-0dc9b2cbcd2d",
+                "type": "image",
+                "content": "",
+                "style": {
+                  "x": 0,
+                  "y": 15,
+                  "width": 1096,
+                  "height": 478,
+                  "fontSize": 16,
+                  "fontWeight": "normal",
+                  "color": "#000000",
+                  "backgroundColor": "transparent",
+                  "borderRadius": 0,
+                  "padding": 0,
+                  "textAlign": "right",
+                  "zIndex": 1
+                },
+                "src": "https://www.stratstone.com/-/media/stratstone/blog/2024/top-10-best-supercars-of-2024/mclaren-750s-driving-dynamic-hero-1920x774px.ashx",
+                "alt": "Canvas image"
+              },
+              {
+                "id": "7a6f6b21-f7ba-41c4-8f31-2dd95fd1c7d5",
+                "type": "button",
+                "content": "car dealer",
+                "style": {
+                  "x": 97,
+                  "y": 367,
+                  "width": 143,
+                  "height": 58,
+                  "fontSize": 30,
+                  "fontWeight": "bold",
+                  "color": "#ebe6e6",
+                  "backgroundColor": "#d96d6d",
+                  "borderRadius": 14,
+                  "padding": 0,
+                  "textAlign": "center",
+                  "zIndex": 4
+                },
+                "href": "https://www.stratstone.com/-/media/stratstone/blog/2024/top-10-best-supercars-of-2024/mclaren-750s-driving-dynamic-hero-1920x774px.ashx"
+              }
+            ],
+            "setting": {
+              "canvasWidth": "100%",
+              "canvasHeight": "500px",
+              "backgroundColor": "#f9fafb",
+              "gridSize": 10,
+              "showGrid": false
+            }
+          }
+        },
         {
           "type": "Gallery-2",
           "blocks": {
