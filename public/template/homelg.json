@@ -459,8 +459,8 @@
                 "style": {
                   "x": 97,
                   "y": 367,
-                  "width": 143,
-                  "height": 58,
+                  "width": 256,
+                  "height": 92,
                   "fontSize": 30,
                   "fontWeight": "bold",
                   "color": "#ebe6e6",
