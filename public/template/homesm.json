@@ -274,28 +274,66 @@
           }
         },
         {
-          "type": "OfferRow",
-          "blocks": {
-            "offers": [],
-            "setting": {
-              "titleColor": "#0c2c18",
-              "titleText": "شگفت‌انگیز سوپرمارکتی",
-              "buttonColor": "#d91717",
-              "buttonTextColor": "#000000",
-              "gradientFromColor": "#f3f4f6",
-              "gradientToColor": "#e5e7eb",
-              "buttonText": "مشاهده همه",
-              "buttonLink": "/special-offers",
-              "selectedCollection": "67b341e8193d4de634d00fec"
-            }
-          },
+          "type": "CanvasEditor-93e6a0f4",
           "setting": {
             "paddingTop": "20",
             "paddingBottom": "20",
-            "marginTop": "10",
-            "marginBottom": "10",
-            "backgroundColor": "#ffffff",
-            "buttonText": "مشاهده همه"
+            "paddingLeft": "20",
+            "paddingRight": "20",
+            "marginTop": "30",
+            "marginBottom": "30",
+            "backgroundColor": "#ffffff"
+          },
+          "blocks": {
+            "elements": [
+              {
+                "id": "87237585-bde4-4627-9394-5bc578005c35",
+                "type": "heading",
+                "content": "عنوان جدید",
+                "style": {
+                  "x": 452.66666666666674,
+                  "y": 16.666666666666668,
+                  "width": 138,
+                  "height": 60,
+                  "fontSize": 24,
+                  "fontWeight": "bold",
+                  "color": "#000000",
+                  "backgroundColor": "transparent",
+                  "borderRadius": 0,
+                  "padding": 0,
+                  "textAlign": "right",
+                  "zIndex": 6
+                }
+              },
+              {
+                "id": "85ce446e-8a3f-4737-8237-a9b2cea7c0e3",
+                "type": "image",
+                "content": "",
+                "style": {
+                  "x": 0,
+                  "y": 5,
+                  "width": 625,
+                  "height": 495,
+                  "fontSize": 16,
+                  "fontWeight": "normal",
+                  "color": "#000000",
+                  "backgroundColor": "transparent",
+                  "borderRadius": 0,
+                  "padding": 0,
+                  "textAlign": "right",
+                  "zIndex": 1
+                },
+                "src": "https://www.stratstone.com/-/media/stratstone/blog/2024/top-10-best-supercars-of-2024/mclaren-750s-driving-dynamic-hero-1920x774px.ashx",
+                "alt": "Canvas image"
+              }
+            ],
+            "setting": {
+              "canvasWidth": "100%",
+              "canvasHeight": "500px",
+              "backgroundColor": "#f9fafb",
+              "gridSize": 10,
+              "showGrid": true
+            }
           }
         },
         {
@@ -385,33 +423,66 @@
           }
         },
         {
-          "type": "ProductsRow-2",
-          "blocks": {
-            "textHeading": " محصولات پرفروش ",
-            "setting": {
-              "selectedCollection": "67b341e8193d4de634d00fec",
-              "headingColor": "#000000",
-              "headingFontSize": "22",
-              "headingFontWeight": "bold",
-              "productNameColor": "#000000",
-              "priceColor": "#EF394E",
-              "descriptionColor": "#666666",
-              "btnBg": "#EF394E",
-              "btnTextColor": "#ffffff",
-              "cardBackground": "#EF394E",
-              "cardBorderRadius": "8",
-              "imageRadius": "8",
-              "gridColumns": "4"
-            }
-          },
+          "type": "CanvasEditor-93e6a0f4",
           "setting": {
-            "paddingTop": "30",
-            "paddingBottom": "30",
-            "marginTop": "20",
-            "marginBottom": "20",
-            "backgroundColor": "#ffffff",
-            "paddingLeft": "10",
-            "paddingRight": "10"
+            "paddingTop": "20",
+            "paddingBottom": "20",
+            "paddingLeft": "20",
+            "paddingRight": "20",
+            "marginTop": "30",
+            "marginBottom": "30",
+            "backgroundColor": "#ffffff"
+          },
+          "blocks": {
+            "elements": [
+              {
+                "id": "87237585-bde4-4627-9394-5bc578005c35",
+                "type": "heading",
+                "content": "عنوان جدید",
+                "style": {
+                  "x": 286,
+                  "y": 12,
+                  "width": 138,
+                  "height": 60,
+                  "fontSize": 24,
+                  "fontWeight": "bold",
+                  "color": "#000000",
+                  "backgroundColor": "transparent",
+                  "borderRadius": 0,
+                  "padding": 0,
+                  "textAlign": "right",
+                  "zIndex": 6
+                }
+              },
+              {
+                "id": "85ce446e-8a3f-4737-8237-a9b2cea7c0e3",
+                "type": "image",
+                "content": "",
+                "style": {
+                  "x": 0,
+                  "y": 5,
+                  "width": 625,
+                  "height": 495,
+                  "fontSize": 16,
+                  "fontWeight": "normal",
+                  "color": "#000000",
+                  "backgroundColor": "transparent",
+                  "borderRadius": 0,
+                  "padding": 0,
+                  "textAlign": "right",
+                  "zIndex": 1
+                },
+                "src": "https://www.stratstone.com/-/media/stratstone/blog/2024/top-10-best-supercars-of-2024/mclaren-750s-driving-dynamic-hero-1920x774px.ashx",
+                "alt": "Canvas image"
+              }
+            ],
+            "setting": {
+              "canvasWidth": "100%",
+              "canvasHeight": "500px",
+              "backgroundColor": "#f9fafb",
+              "gridSize": 10,
+              "showGrid": true
+            }
           }
         },
         {
