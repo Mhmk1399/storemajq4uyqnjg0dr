@@ -454,6 +454,67 @@
             "paddingRight": "0",
             "paddingLeft": "0"
           }
+        },
+        {
+          "type": "CanvasEditor-93e6a0f4",
+          "setting": {
+            "paddingTop": "20",
+            "paddingBottom": "20",
+            "paddingLeft": "20",
+            "paddingRight": "20",
+            "marginTop": "30",
+            "marginBottom": "30",
+            "backgroundColor": "#ffffff"
+          },
+          "blocks": {
+            "elements": [
+              {
+                "id": "87237585-bde4-4627-9394-5bc578005c35",
+                "type": "heading",
+                "content": "عنوان جدید",
+                "style": {
+                  "x": 50,
+                  "y": 50,
+                  "width": 300,
+                  "height": 60,
+                  "fontSize": 24,
+                  "fontWeight": "bold",
+                  "color": "#000000",
+                  "backgroundColor": "transparent",
+                  "borderRadius": 0,
+                  "padding": 0,
+                  "textAlign": "right",
+                  "zIndex": 1
+                }
+              },
+              {
+                "id": "7e98df70-8862-414d-8a9d-e846762f9d92",
+                "type": "paragraph",
+                "content": "این یک متن نمونه است. شما می‌توانید این متن را ویرایش کنید یا المان‌های جدید به صفحه اضافه کنید.",
+                "style": {
+                  "x": 50,
+                  "y": 130,
+                  "width": 400,
+                  "height": 100,
+                  "fontSize": 16,
+                  "fontWeight": "normal",
+                  "color": "#333333",
+                  "backgroundColor": "transparent",
+                  "borderRadius": 0,
+                  "padding": 0,
+                  "textAlign": "right",
+                  "zIndex": 1
+                }
+              }
+            ],
+            "setting": {
+              "canvasWidth": "100%",
+              "canvasHeight": "500px",
+              "backgroundColor": "#f9fafb",
+              "gridSize": 10,
+              "showGrid": true
+            }
+          }
         }
       ],
       "order": [
@@ -461,6 +522,7 @@
         "SlideBanner",
         "SpecialOffer",
         "OfferRow",
+        "CanvasEditor-93e6a0f4",
         "ProductsRow-2",
         "Gallery",
         "Brands",
@@ -512,5 +574,9 @@
       }
     }
   },
-  "order": ["section-header", "children", "section-footer"]
+  "order": [
+    "section-header",
+    "children",
+    "section-footer"
+  ]
 }
