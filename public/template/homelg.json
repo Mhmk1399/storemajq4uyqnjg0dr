@@ -450,6 +450,27 @@
                   "zIndex": 4
                 },
                 "href": "https://www.stratstone.com/-/media/stratstone/blog/2024/top-10-best-supercars-of-2024/mclaren-750s-driving-dynamic-hero-1920x774px.ashx"
+              },
+              {
+                "id": "5ce0d03a-c2e4-4dc3-94ef-9be3a7ade851",
+                "type": "image",
+                "content": "",
+                "style": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 1374,
+                  "height": 500,
+                  "fontSize": 16,
+                  "fontWeight": "normal",
+                  "color": "#000000",
+                  "backgroundColor": "transparent",
+                  "borderRadius": 0,
+                  "padding": 0,
+                  "textAlign": "right",
+                  "zIndex": 1
+                },
+                "src": "https://www.stratstone.com/-/media/stratstone/blog/2024/top-10-best-supercars-of-2024/mclaren-750s-driving-dynamic-hero-1920x774px.ashx",
+                "alt": "Canvas image"
               }
             ],
             "setting": {
