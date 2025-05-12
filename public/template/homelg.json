@@ -471,6 +471,25 @@
                 },
                 "src": "https://www.stratstone.com/-/media/stratstone/blog/2024/top-10-best-supercars-of-2024/mclaren-750s-driving-dynamic-hero-1920x774px.ashx",
                 "alt": "Canvas image"
+              },
+              {
+                "id": "1ba27a2e-65fa-4da7-a3b7-d81b79b81a48",
+                "type": "paragraph",
+                "content": "British marque McLaren, known for its seductive -- and fear-inducing -- supercars, recently launched its 750S coupe and spider, successors to its widely successful 720S. The brand has one hybrid on sale, the Artura, which launched in 2022. Customers, however, still demand the palpable acoustics of the raucous twin-turbo 4.0-liter V8 positioned behind the driver's seat. The 750S may be the epitome of internal combustion engine (ICE) ingenuity.",
+                "style": {
+                  "x": 1,
+                  "y": 6,
+                  "width": 233,
+                  "height": 359,
+                  "fontSize": 18,
+                  "fontWeight": "normal",
+                  "color": "#0d2b26",
+                  "backgroundColor": "transparent",
+                  "borderRadius": 0,
+                  "padding": 1,
+                  "textAlign": "right",
+                  "zIndex": 1
+                }
               }
             ],
             "setting": {
