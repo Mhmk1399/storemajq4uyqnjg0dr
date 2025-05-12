@@ -453,9 +453,9 @@
                 "content": "",
                 "style": {
                   "x": 0,
-                  "y": 0,
-                  "width": 1382,
-                  "height": 500,
+                  "y": 2,
+                  "width": 1372,
+                  "height": 498,
                   "fontSize": 16,
                   "fontWeight": "normal",
                   "color": "#000000",
