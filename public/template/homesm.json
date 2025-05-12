@@ -310,15 +310,15 @@
                 "type": "image",
                 "content": "",
                 "style": {
-                  "x": 0,
+                  "x": 5,
                   "y": 0,
-                  "width": 638.3333333333334,
+                  "width": 620,
                   "height": 500,
                   "fontSize": 16,
                   "fontWeight": "normal",
                   "color": "#000000",
                   "backgroundColor": "transparent",
-                  "borderRadius": 0,
+                  "borderRadius": 43,
                   "padding": 0,
                   "textAlign": "right",
                   "zIndex": 1
@@ -332,7 +332,7 @@
               "canvasHeight": "500px",
               "backgroundColor": "#f9fafb",
               "gridSize": 10,
-              "showGrid": true
+              "showGrid": false
             }
           }
         },
@@ -459,15 +459,15 @@
                 "type": "image",
                 "content": "",
                 "style": {
-                  "x": 0,
+                  "x": 5,
                   "y": 0,
-                  "width": 638.3333333333334,
+                  "width": 620,
                   "height": 500,
                   "fontSize": 16,
                   "fontWeight": "normal",
                   "color": "#000000",
                   "backgroundColor": "transparent",
-                  "borderRadius": 0,
+                  "borderRadius": 43,
                   "padding": 0,
                   "textAlign": "right",
                   "zIndex": 1
@@ -481,7 +481,7 @@
               "canvasHeight": "500px",
               "backgroundColor": "#f9fafb",
               "gridSize": 10,
-              "showGrid": true
+              "showGrid": false
             }
           }
         },
@@ -563,15 +563,15 @@
                 "type": "image",
                 "content": "",
                 "style": {
-                  "x": 0,
+                  "x": 5,
                   "y": 0,
-                  "width": 638.3333333333334,
+                  "width": 620,
                   "height": 500,
                   "fontSize": 16,
                   "fontWeight": "normal",
                   "color": "#000000",
                   "backgroundColor": "transparent",
-                  "borderRadius": 0,
+                  "borderRadius": 43,
                   "padding": 0,
                   "textAlign": "right",
                   "zIndex": 1
@@ -585,7 +585,7 @@
               "canvasHeight": "500px",
               "backgroundColor": "#f9fafb",
               "gridSize": 10,
-              "showGrid": true
+              "showGrid": false
             }
           }
         }
