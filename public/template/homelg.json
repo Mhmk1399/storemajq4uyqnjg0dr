@@ -490,6 +490,25 @@
                   "textAlign": "right",
                   "zIndex": 1
                 }
+              },
+              {
+                "id": "de2b6bb0-8339-4995-9aef-f4ee725dc627",
+                "type": "heading",
+                "content": "performance arms race",
+                "style": {
+                  "x": 741,
+                  "y": 12,
+                  "width": 343,
+                  "height": 53,
+                  "fontSize": 36,
+                  "fontWeight": "normal",
+                  "color": "#000000",
+                  "backgroundColor": "transparent",
+                  "borderRadius": 0,
+                  "padding": 0,
+                  "textAlign": "right",
+                  "zIndex": 1
+                }
               }
             ],
             "setting": {
