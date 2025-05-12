@@ -473,9 +473,9 @@
                 "type": "heading",
                 "content": "عنوان جدید",
                 "style": {
-                  "x": 50,
-                  "y": 50,
-                  "width": 300,
+                  "x": 497.66672770182294,
+                  "y": 15.333328247070312,
+                  "width": 103.33333333333334,
                   "height": 60,
                   "fontSize": 24,
                   "fontWeight": "bold",
@@ -484,27 +484,29 @@
                   "borderRadius": 0,
                   "padding": 0,
                   "textAlign": "right",
-                  "zIndex": 1
+                  "zIndex": 6
                 }
               },
               {
-                "id": "7e98df70-8862-414d-8a9d-e846762f9d92",
-                "type": "paragraph",
-                "content": "این یک متن نمونه است. شما می‌توانید این متن را ویرایش کنید یا المان‌های جدید به صفحه اضافه کنید.",
+                "id": "85ce446e-8a3f-4737-8237-a9b2cea7c0e3",
+                "type": "image",
+                "content": "",
                 "style": {
-                  "x": 50,
-                  "y": 130,
-                  "width": 400,
-                  "height": 100,
+                  "x": 0,
+                  "y": 5,
+                  "width": 625,
+                  "height": 495,
                   "fontSize": 16,
                   "fontWeight": "normal",
-                  "color": "#333333",
+                  "color": "#000000",
                   "backgroundColor": "transparent",
                   "borderRadius": 0,
                   "padding": 0,
                   "textAlign": "right",
                   "zIndex": 1
-                }
+                },
+                "src": "https://www.stratstone.com/-/media/stratstone/blog/2024/top-10-best-supercars-of-2024/mclaren-750s-driving-dynamic-hero-1920x774px.ashx",
+                "alt": "Canvas image"
               }
             ],
             "setting": {
