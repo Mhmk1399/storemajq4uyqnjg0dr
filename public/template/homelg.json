@@ -556,67 +556,6 @@
             "paddingRight": "0",
             "paddingLeft": "0"
           }
-        },
-        {
-          "type": "CanvasEditor-42831a25",
-          "setting": {
-            "paddingTop": "20",
-            "paddingBottom": "20",
-            "paddingLeft": "20",
-            "paddingRight": "20",
-            "marginTop": "30",
-            "marginBottom": "30",
-            "backgroundColor": "#ffffff"
-          },
-          "blocks": {
-            "elements": [
-              {
-                "id": "44657524-e9fd-4ccc-9022-9bccf4027fb4",
-                "type": "paragraph",
-                "content": "متن پاراگراف جدید",
-                "style": {
-                  "x": 650,
-                  "y": 82,
-                  "width": 200,
-                  "height": 100,
-                  "fontSize": 16,
-                  "fontWeight": "normal",
-                  "color": "#000000",
-                  "backgroundColor": "transparent",
-                  "borderRadius": 0,
-                  "padding": 0,
-                  "textAlign": "right",
-                  "zIndex": 1
-                }
-              },
-              {
-                "id": "82859c5e-29f3-4e35-aebb-d48f52175c68",
-                "type": "button",
-                "content": "دکمه",
-                "style": {
-                  "x": 316,
-                  "y": 252,
-                  "width": 34,
-                  "height": 40,
-                  "fontSize": 16,
-                  "fontWeight": "normal",
-                  "color": "#000000",
-                  "backgroundColor": "transparent",
-                  "borderRadius": 0,
-                  "padding": 0,
-                  "textAlign": "right",
-                  "zIndex": 1
-                }
-              }
-            ],
-            "setting": {
-              "canvasWidth": "100%",
-              "canvasHeight": "500px",
-              "backgroundColor": "#f9fafb",
-              "gridSize": 10,
-              "showGrid": true
-            }
-          }
         }
       ],
       "order": [
@@ -629,8 +568,7 @@
         "Brands",
         "CanvasEditor",
         "ProductsRow",
-        "Gallery-2",
-        "CanvasEditor-42831a25"
+        "Gallery-2"
       ]
     },
     "sectionFooter": {
