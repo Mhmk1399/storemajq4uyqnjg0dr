@@ -374,7 +374,7 @@
             ],
             "setting": {
               "headingColor": "#1052e0",
-              "headingFontSize": "70",
+              "headingFontSize": "60",
               "headingFontWeight": "bold",
               "brandNameColor": "#666666",
               "brandNameFontSize": "16",
@@ -388,7 +388,7 @@
             }
           },
           "setting": {
-            "paddingTop": "5",
+            "paddingTop": "2",
             "paddingBottom": "5",
             "marginTop": "20",
             "marginBottom": "20",
