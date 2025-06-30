@@ -83,28 +83,28 @@
             ]
           },
           {
-            "name": "درباره ما",
-            "url": "/about"
+            "name": "شگفت‌انگیزها",
+            "url": "/offers"
           },
           {
-            "name": "وبلاگ",
-            "url": "/blog"
+            "name": "سوپرمارکت",
+            "url": "/supermarket"
           },
           {
-            "name": "تماس با ما",
-            "url": "/contact"
+            "name": "پرفروش‌ترین‌ها",
+            "url": "/best-sellers"
           },
           {
-            "name": "تخفیف‌ها",
+            "name": "تخفیف‌ها و پیشنهادها",
             "url": "/discounts"
           },
           {
-            "name": "سوالات متداول",
+            "name": "سوالی دارید؟",
             "url": "/faq"
           },
           {
-            "name": "تبلیغات",
-            "url": "/ads"
+            "name": "فروشنده شوید",
+            "url": "/become-seller"
           }
         ],
         "setting": {
@@ -123,7 +123,7 @@
           "locationButtonBgColor": "#FFF7ED",
           "locationButtonTextColor": "#EA580C",
           "announcementText": "ارسال رایگان برای خرید‌ بالای ۵۰۰ هزار تومان!",
-          "announcementBgColor": "#e51542",
+          "announcementBgColor": "#740bf4",
           "announcementTextColor": "#ffffff",
           "announcementFontSize": "14",
           "bgColor": "#ffffff",
@@ -142,7 +142,7 @@
         "marginTop": "",
         "marginBottom": "0",
         "navbarPosition": "fixed",
-        "bgColor": "#ffffff"
+        "bgColor": "#d7163c"
       },
       "type": "header"
     },
@@ -255,10 +255,10 @@
               }
             ],
             "setting": {
-              "storyRingColor": "#fd0de9",
+              "storyRingColor": "#92a2d3",
               "viewedRingColor": "#e0e0e0",
               "titleColor": "#666666",
-              "titleFontSize": "12",
+              "titleFontSize": "19",
               "titleFontWeight": "normal",
               "imageWidth": "70px",
               "imageHeight": "70px",
@@ -274,66 +274,28 @@
           }
         },
         {
-          "type": "CanvasEditor-93e6a0f4",
+          "type": "OfferRow",
+          "blocks": {
+            "offers": [],
+            "setting": {
+              "titleColor": "#22C55E",
+              "titleText": "شگفت‌انگیز سوپرمارکتی",
+              "buttonColor": "#ffffff",
+              "buttonTextColor": "#000000",
+              "gradientFromColor": "#f3f4f6",
+              "gradientToColor": "#e5e7eb",
+              "buttonText": "مشاهده همه",
+              "buttonLink": "/special-offers",
+              "selectedCollection": "67b341e8193d4de634d00fec"
+            }
+          },
           "setting": {
             "paddingTop": "20",
             "paddingBottom": "20",
-            "paddingLeft": "20",
-            "paddingRight": "20",
-            "marginTop": "30",
-            "marginBottom": "30",
-            "backgroundColor": "#ffffff"
-          },
-          "blocks": {
-            "elements": [
-              {
-                "id": "87237585-bde4-4627-9394-5bc578005c35",
-                "type": "heading",
-                "content": "عنوان جدید",
-                "style": {
-                  "x": 449.3332926432292,
-                  "y": 11.666666666666668,
-                  "width": 151.66666666666669,
-                  "height": 60,
-                  "fontSize": 31,
-                  "fontWeight": "bold",
-                  "color": "#000000",
-                  "backgroundColor": "transparent",
-                  "borderRadius": 0,
-                  "padding": 0,
-                  "textAlign": "right",
-                  "zIndex": 6
-                }
-              },
-              {
-                "id": "85ce446e-8a3f-4737-8237-a9b2cea7c0e3",
-                "type": "image",
-                "content": "",
-                "style": {
-                  "x": 5,
-                  "y": 0,
-                  "width": 633.3333333333334,
-                  "height": 500,
-                  "fontSize": 16,
-                  "fontWeight": "normal",
-                  "color": "#000000",
-                  "backgroundColor": "transparent",
-                  "borderRadius": 43,
-                  "padding": 0,
-                  "textAlign": "right",
-                  "zIndex": 1
-                },
-                "src": "https://www.stratstone.com/-/media/stratstone/blog/2024/top-10-best-supercars-of-2024/mclaren-750s-driving-dynamic-hero-1920x774px.ashx",
-                "alt": "Canvas image"
-              }
-            ],
-            "setting": {
-              "canvasWidth": "100%",
-              "canvasHeight": "500px",
-              "backgroundColor": "#f9fafb",
-              "gridSize": 10,
-              "showGrid": false
-            }
+            "marginTop": "10",
+            "marginBottom": "10",
+            "backgroundColor": "#ffffff",
+            "buttonText": "مشاهده همه"
           }
         },
         {
@@ -373,8 +335,8 @@
               }
             ],
             "setting": {
-              "headingColor": "#1052e0",
-              "headingFontSize": "60",
+              "headingColor": "#14213D",
+              "headingFontSize": "32",
               "headingFontWeight": "bold",
               "brandNameColor": "#666666",
               "brandNameFontSize": "16",
@@ -388,7 +350,7 @@
             }
           },
           "setting": {
-            "paddingTop": "2",
+            "paddingTop": "5",
             "paddingBottom": "5",
             "marginTop": "20",
             "marginBottom": "20",
@@ -423,7 +385,37 @@
           }
         },
         {
-          "type": "CanvasEditor-93e6a0f4",
+          "type": "ProductsRow-2",
+          "blocks": {
+            "textHeading": " محصولات پرفروش ",
+            "setting": {
+              "selectedCollection": "67b341e8193d4de634d00fec",
+              "headingColor": "#000000",
+              "headingFontSize": "22",
+              "headingFontWeight": "bold",
+              "productNameColor": "#000000",
+              "priceColor": "#EF394E",
+              "descriptionColor": "#666666",
+              "btnBg": "#EF394E",
+              "btnTextColor": "#ffffff",
+              "cardBackground": "#EF394E",
+              "cardBorderRadius": "8",
+              "imageRadius": "8",
+              "gridColumns": "4"
+            }
+          },
+          "setting": {
+            "paddingTop": "30",
+            "paddingBottom": "30",
+            "marginTop": "20",
+            "marginBottom": "20",
+            "backgroundColor": "#ffffff",
+            "paddingLeft": "10",
+            "paddingRight": "10"
+          }
+        },
+        {
+          "type": "CanvasEditor",
           "setting": {
             "paddingTop": "20",
             "paddingBottom": "20",
@@ -436,44 +428,83 @@
           "blocks": {
             "elements": [
               {
-                "id": "87237585-bde4-4627-9394-5bc578005c35",
-                "type": "heading",
-                "content": "عنوان جدید",
+                "id": "7a6f6b21-f7ba-41c4-8f31-2dd95fd1c7d5",
+                "type": "button",
+                "content": "car dealer",
                 "style": {
-                  "x": 449.3332926432292,
-                  "y": 11.666666666666668,
-                  "width": 151.66666666666669,
-                  "height": 60,
-                  "fontSize": 31,
+                  "x": 85,
+                  "y": 359,
+                  "width": 241,
+                  "height": 61,
+                  "fontSize": 30,
                   "fontWeight": "bold",
-                  "color": "#000000",
-                  "backgroundColor": "transparent",
-                  "borderRadius": 0,
+                  "color": "#ebe6e6",
+                  "backgroundColor": "rgba(217, 109, 109, 0.46)",
+                  "borderRadius": 14,
                   "padding": 0,
-                  "textAlign": "right",
-                  "zIndex": 6
-                }
+                  "textAlign": "center",
+                  "zIndex": 4
+                },
+                "href": "https://www.stratstone.com/-/media/stratstone/blog/2024/top-10-best-supercars-of-2024/mclaren-750s-driving-dynamic-hero-1920x774px.ashx"
               },
               {
-                "id": "85ce446e-8a3f-4737-8237-a9b2cea7c0e3",
+                "id": "5ce0d03a-c2e4-4dc3-94ef-9be3a7ade851",
                 "type": "image",
                 "content": "",
                 "style": {
-                  "x": 5,
-                  "y": 0,
-                  "width": 633.3333333333334,
-                  "height": 500,
+                  "x": 0,
+                  "y": 2,
+                  "width": 1372,
+                  "height": 498,
                   "fontSize": 16,
                   "fontWeight": "normal",
                   "color": "#000000",
-                  "backgroundColor": "transparent",
-                  "borderRadius": 43,
+                  "backgroundColor": "rgba(109, 59, 59, 1)",
+                  "borderRadius": 23,
                   "padding": 0,
                   "textAlign": "right",
                   "zIndex": 1
                 },
                 "src": "https://www.stratstone.com/-/media/stratstone/blog/2024/top-10-best-supercars-of-2024/mclaren-750s-driving-dynamic-hero-1920x774px.ashx",
                 "alt": "Canvas image"
+              },
+              {
+                "id": "1ba27a2e-65fa-4da7-a3b7-d81b79b81a48",
+                "type": "paragraph",
+                "content": "British marque McLaren, known for its seductive -- and fear-inducing -- supercars, recently launched its 750S coupe and spider, successors to its widely successful 720S. The brand has one hybrid on sale, the Artura, which launched in 2022. Customers, however, still demand the palpable acoustics of the raucous twin-turbo 4.0-liter V8 positioned behind the driver's seat. The 750S may be the epitome of internal combustion engine (ICE) ingenuity.",
+                "style": {
+                  "x": 6,
+                  "y": 39,
+                  "width": 419,
+                  "height": 285,
+                  "fontSize": 18,
+                  "fontWeight": "normal",
+                  "color": "rgba(0, 0, 0, 1)",
+                  "backgroundColor": "rgba(190, 119, 118, 0.79)",
+                  "borderRadius": 20,
+                  "padding": 17,
+                  "textAlign": "right",
+                  "zIndex": 1
+                }
+              },
+              {
+                "id": "de2b6bb0-8339-4995-9aef-f4ee725dc627",
+                "type": "heading",
+                "content": "performance arms race",
+                "style": {
+                  "x": 5,
+                  "y": 14,
+                  "width": 263,
+                  "height": 53,
+                  "fontSize": 32,
+                  "fontWeight": "normal",
+                  "color": "#000000",
+                  "backgroundColor": "transparent",
+                  "borderRadius": 0,
+                  "padding": 0,
+                  "textAlign": "right",
+                  "zIndex": 1
+                }
               }
             ],
             "setting": {
@@ -494,7 +525,7 @@
               {
                 "imageSrc": "/assets/images/twinbanner2.webp",
                 "imageAlt": "Gallery Image 1",
-                "imageLink": "#"
+                "imageLink": "juju1"
               },
               {
                 "imageSrc": "/assets/images/twinbanner.webp",
@@ -510,11 +541,11 @@
               "descriptionFontSize": "16",
               "descriptionFontWeight": "normal",
               "background": "#ffffff",
-              "imageWidth": "300",
-              "imageHeight": "250",
+              "imageWidth": "546",
+              "imageHeight": "260",
               "imageRadius": "8",
               "gridColumns": "2",
-              "gridGap": "20"
+              "gridGap": "41"
             }
           },
           "setting": {
@@ -525,69 +556,6 @@
             "paddingRight": "0",
             "paddingLeft": "0"
           }
-        },
-        {
-          "type": "CanvasEditor-93e6a0f4",
-          "setting": {
-            "paddingTop": "20",
-            "paddingBottom": "20",
-            "paddingLeft": "20",
-            "paddingRight": "20",
-            "marginTop": "30",
-            "marginBottom": "30",
-            "backgroundColor": "#ffffff"
-          },
-          "blocks": {
-            "elements": [
-              {
-                "id": "87237585-bde4-4627-9394-5bc578005c35",
-                "type": "heading",
-                "content": "عنوان جدید",
-                "style": {
-                  "x": 449.3332926432292,
-                  "y": 11.666666666666668,
-                  "width": 151.66666666666669,
-                  "height": 60,
-                  "fontSize": 31,
-                  "fontWeight": "bold",
-                  "color": "#000000",
-                  "backgroundColor": "transparent",
-                  "borderRadius": 0,
-                  "padding": 0,
-                  "textAlign": "right",
-                  "zIndex": 6
-                }
-              },
-              {
-                "id": "85ce446e-8a3f-4737-8237-a9b2cea7c0e3",
-                "type": "image",
-                "content": "",
-                "style": {
-                  "x": 5,
-                  "y": 0,
-                  "width": 633.3333333333334,
-                  "height": 500,
-                  "fontSize": 16,
-                  "fontWeight": "normal",
-                  "color": "#000000",
-                  "backgroundColor": "transparent",
-                  "borderRadius": 43,
-                  "padding": 0,
-                  "textAlign": "right",
-                  "zIndex": 1
-                },
-                "src": "https://www.stratstone.com/-/media/stratstone/blog/2024/top-10-best-supercars-of-2024/mclaren-750s-driving-dynamic-hero-1920x774px.ashx",
-                "alt": "Canvas image"
-              }
-            ],
-            "setting": {
-              "canvasWidth": "100%",
-              "canvasHeight": "500px",
-              "backgroundColor": "#f9fafb",
-              "gridSize": 10,
-              "showGrid": false
-            }
-          }
         }
       ],
       "order": [
@@ -595,12 +563,12 @@
         "SlideBanner",
         "SpecialOffer",
         "OfferRow",
-        "CanvasEditor-93e6a0f4",
         "ProductsRow-2",
         "Gallery",
         "Brands",
-        "Gallery-2",
-        "ProductsRow"
+        "CanvasEditor",
+        "ProductsRow",
+        "Gallery-2"
       ]
     },
     "sectionFooter": {
@@ -613,12 +581,12 @@
           "descriptionColor": "#000000",
           "descriptionFontSize": "18",
           "descriptionFontWeight": "normal",
-          "trustIconBackground": "#e4e4e4",
+          "trustIconBackground": "#1a54db",
           "trustIconColor": "#ffffff",
           "trustItemSize": "15",
           "trustItemColor": "bold",
-          "scrollButtonBg": "#8684f1",
-          "scrollButtonColor": "#fffafa",
+          "scrollButtonBg": "#e4e4e4",
+          "scrollButtonColor": "#000000",
           "categoryColor": "#000000",
           "linkColor": "#0077b6",
           "logoWidth": "80",
@@ -634,7 +602,16 @@
         "textNumber": "با این شماره تماس بگیرید",
         "phoneNumber": "09123456789",
         "logo": "/assets/images/logo.webp",
-        "links": []
+        "links": [
+          {
+            "url": "/privacy-policy",
+            "label": "Privacy Policy"
+          },
+          {
+            "url": "/terms-of-service",
+            "label": "Terms of Service"
+          }
+        ]
       },
       "setting": {
         "paddingTop": "30",
@@ -643,7 +620,7 @@
         "marginBottom": "20",
         "paddinRight": "0",
         "paddinLeft": "0",
-        "backgroundColor": "#e30d0d"
+        "backgroundColor": "#ffffff"
       }
     }
   },
