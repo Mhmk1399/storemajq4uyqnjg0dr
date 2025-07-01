@@ -588,6 +588,73 @@
               "showGrid": false
             }
           }
+        },
+        {
+          "type": "ImageText-8d6d4e85",
+          "blocks": {
+            "imageSrc": "/assets/images/banner3.jpg",
+            "imageAlt": "",
+            "heading": "سربرگufcjvjchxhx محصول",
+            "description": "توضیحات درباره محصول",
+            "btnLink": "/",
+            "btnText": "دکمه",
+            "setting": {
+              "headingColor": "#FCA311",
+              "headingFontSize": "60",
+              "headingFontWeight": "bold",
+              "descriptionColor": "#E5E5E5",
+              "descriptionFontSize": "29",
+              "descriptionFontWeight": "normal",
+              "btnTextColor": "#14213D",
+              "btnBackgroundColor": "#FFFFFF",
+              "backgroundColorBox": "",
+              "backgroundBoxOpacity": 0.9,
+              "boxRadiuos": "20",
+              "opacityImage": 1,
+              "imageWidth": "85",
+              "imageHeight": "50",
+              "background": "#14213D"
+            }
+          },
+          "setting": {
+            "paddingTop": "30",
+            "paddingBottom": "30",
+            "marginTop": "20",
+            "marginBottom": "20",
+            "paddinRight": "0",
+            "paddinLeft": "0"
+          }
+        },
+        {
+          "type": "RichText-51d219c2",
+          "blocks": {
+            "imageSrc": "",
+            "imageAlt": "",
+            "heading": "",
+            "description": "توضیحات درباره محصول",
+            "textHeading": "سربرل",
+            "btnText": "دکمه",
+            "btnLink": "store",
+            "setting": {
+              "textHeadingColor": "#FCA311",
+              "textHeadingFontSize": "40",
+              "textHeadingFontWeight": "bold",
+              "descriptionColor": "#E5E5E5",
+              "descriptionFontSize": "18",
+              "descriptionFontWeight": "normal",
+              "background": "#14213D",
+              "btnTextColor": "#ffffff",
+              "btnBackgroundColor": "#FCA311"
+            }
+          },
+          "setting": {
+            "paddingTop": "30",
+            "paddingBottom": "30",
+            "marginTop": "20",
+            "marginBottom": "20",
+            "paddinRight": "0",
+            "paddinLeft": "0"
+          }
         }
       ],
       "order": [
@@ -600,7 +667,9 @@
         "Gallery",
         "Brands",
         "Gallery-2",
-        "ProductsRow"
+        "ProductsRow",
+        "ImageText-8d6d4e85",
+        "RichText-51d219c2"
       ]
     },
     "sectionFooter": {
