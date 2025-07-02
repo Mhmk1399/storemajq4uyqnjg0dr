@@ -293,8 +293,8 @@
             }
           },
           "setting": {
-            "paddingTop": "10",
-            "paddingBottom": "10",
+            "paddingTop": "25",
+            "paddingBottom": "57",
             "marginTop": "5",
             "marginBottom": "5",
             "paddingRight": "0",
