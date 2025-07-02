@@ -104,7 +104,7 @@
           "imageHeight": "60",
           "imageRadius": "30",
           "itemColor": "#f5ede6",
-          "itemFontSize": "19",
+          "itemFontSize": "14",
           "itemFontWeight": "normal",
           "itemHoverColor": "#eb0fbb",
           "backgroundColorNavbar": "#FCA311",
@@ -413,28 +413,28 @@
           "type": "CollapseFaq-ae258c70",
           "blocks": [
             {
-              "text1": "55555",
+              "text1": "سوال متداول  1",
               "content1": "پاسخ سوال متداول 1",
               "setting": {
-                "textColor1": "#ffffff",
-                "textFontSize1": "70",
+                "textColor1": "#110e0e",
+                "textFontSize1": "20",
                 "textFontWeight1": "bold",
-                "contentColor1": "#FCA311",
-                "contentFontSize1": "16",
+                "contentColor1": "#eb0fee",
+                "contentFontSize1": "14",
                 "contentFontWeight1": "normal"
               },
               "links": [],
-              "heading": "5555y555"
+              "heading": "سوالات متداول ما"
             },
             {
               "text2": "سوال متداول 2",
               "content2": "پاسخ سوال متداول 2",
               "setting": {
-                "textColor2": "#ffffff",
+                "textColor2": "#0d0c0c",
                 "textFontSize2": "20",
                 "textFontWeight2": "bold",
-                "contentColor2": "#FCA311",
-                "contentFontSize2": "16",
+                "contentColor2": "#eb0fee",
+                "contentFontSize2": "14",
                 "contentFontWeight2": "normal"
               },
               "links": []
@@ -443,11 +443,11 @@
               "text3": "سوال متداول 3",
               "content3": "پاسخ سوال متداول 3",
               "setting": {
-                "textColor3": "#ffffff",
+                "textColor3": "#0d0d0d",
                 "textFontSize3": "20",
                 "textFontWeight3": "bold",
-                "contentColor3": "#FCA311",
-                "contentFontSize3": "16",
+                "contentColor3": "#eb0fee",
+                "contentFontSize3": "14",
                 "contentFontWeight3": "normal"
               },
               "links": []
@@ -456,11 +456,11 @@
               "text4": "سوال متداول 4",
               "content4": "پاسخ سوال متداول 4",
               "setting": {
-                "textColor4": "#ffffff",
+                "textColor4": "#100f0f",
                 "textFontSize4": "20",
                 "textFontWeight4": "bold",
-                "contentColor4": "#FCA311",
-                "contentFontSize4": "16",
+                "contentColor4": "#eb0fee",
+                "contentFontSize4": "14",
                 "contentFontWeight4": "normal"
               },
               "links": []
@@ -473,10 +473,10 @@
             "marginBottom": "20",
             "paddinRight": "0",
             "paddinLeft": "0",
-            "headingColor": "#ffffff",
-            "headingFontSize": "30",
-            "headingFontWeight": "bold",
-            "background": "#14213D",
+            "headingColor": "#eb0fee",
+            "headingFontSize": "45",
+            "headingFontWeight": "lighter",
+            "background": "#ffffff",
             "borderRadious": "20"
           },
           "heading": "آکاردئون های متداول"
