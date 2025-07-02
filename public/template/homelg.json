@@ -104,7 +104,7 @@
           "imageHeight": "60",
           "imageRadius": "30",
           "itemColor": "#f5ede6",
-          "itemFontSize": "16",
+          "itemFontSize": "19",
           "itemFontWeight": "normal",
           "itemHoverColor": "#eb0fbb",
           "backgroundColorNavbar": "#FCA311",
@@ -117,12 +117,12 @@
           "announcementText": "ارسال رایگان برای خرید‌ بالای ۵۰۰ هزار تومان!",
           "announcementBgColor": "#eb0fbb",
           "announcementTextColor": "#ffffff",
-          "announcementFontSize": "18",
+          "announcementFontSize": "14",
           "bgColor": "#333533",
-          "gap": "37",
+          "gap": "31",
           "megaMenuBg": "#fcfcfc",
           "categoryItemColor": "#121211",
-          "categoryItemSize": "20",
+          "categoryItemSize": "18",
           "categoryItemHoverColor": "#080808"
         }
       },
@@ -141,59 +141,12 @@
     "children": {
       "sections": [
         {
-          "type": "SlideBanner",
-          "setting": {
-            "marginTop": "20",
-            "marginBottom": "0",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "paddingLeft": "0",
-            "paddingRight": "0"
-          },
-          "blocks": {
-            "slides": [
-              {
-                "imageSrc": "/assets/images/bannerdigi.webp",
-                "imageAlt": "Slide 1",
-                "heading": "عنوان اسلاید اول",
-                "description": "توضیحات اسلاید اول",
-                "link": "#"
-              },
-              {
-                "imageSrc": "/assets/images/bannerdigi1.webp",
-                "imageAlt": "Slide 2",
-                "heading": "عنوان اسلاید دوم",
-                "description": "توضیحات اسلاید دوم",
-                "link": "#"
-              },
-              {
-                "imageSrc": "/assets/images/bannerdigi2.webp",
-                "imageAlt": "Slide 3",
-                "heading": "عنوان اسلاید سوم",
-                "description": "توضیحات اسلاید سوم",
-                "link": "#"
-              }
-            ],
-            "setting": {
-              "autoplay": true,
-              "autoplaySpeed": 3000,
-              "slideTransition": "fade",
-              "navigationStyle": "arrows",
-              "arrowsPosition": "bottom-right",
-              "height": "500",
-              "bgArrow": "#ffffff",
-              "activeDotColor": "#ffffff",
-              "inactiveDotColor": "#000000"
-            }
-          }
-        },
-        {
           "type": "SpecialOffer",
           "blocks": {
             "textHeading": "پیشنهاد شگفت‌ انگیز",
             "setting": {
-              "headingColor": "#FFFFFF",
-              "headingFontSize": "32",
+              "headingColor": "#f0f0f0",
+              "headingFontSize": "55",
               "headingFontWeight": "bold",
               "productNameColor": "#000000",
               "priceColor": "#EF394E",
@@ -204,7 +157,7 @@
               "cardBorderRadius": "8",
               "imageRadius": "8",
               "gridColumns": "4",
-              "selectedCollection": "67b341e8193d4de634d00fec"
+              "selectedCollection": "68624fc437319776199ce468"
             }
           },
           "setting": {
@@ -212,57 +165,9 @@
             "paddingBottom": "30",
             "marginTop": "20",
             "marginBottom": "20",
-            "backgroundColor": "#EF394E",
+            "backgroundColor": "#eb0fee",
             "paddingLeft": "10",
             "paddingRight": "10"
-          }
-        },
-        {
-          "type": "Story",
-          "blocks": {
-            "stories": [
-              {
-                "id": "1",
-                "imageUrl": "/assets/images/pro1.jpg",
-                "title": "تخفیف ویژه",
-                "link": "/special-offers"
-              },
-              {
-                "id": "2",
-                "imageUrl": "/assets/images/pro2.jpg",
-                "title": "جدیدترین‌ها",
-                "link": "/new-arrivals"
-              },
-              {
-                "id": "3",
-                "imageUrl": "/assets/images/pro3.jpg",
-                "title": "پیشنهاد روز",
-                "link": "/daily-deals"
-              },
-              {
-                "id": "4",
-                "imageUrl": "/assets/images/pro4.jpg",
-                "title": "پیشنهاد روز",
-                "link": "/daily-deals"
-              }
-            ],
-            "setting": {
-              "storyRingColor": "#fd0de9",
-              "viewedRingColor": "#e0e0e0",
-              "titleColor": "#666666",
-              "titleFontSize": "12",
-              "titleFontWeight": "normal",
-              "imageWidth": "70px",
-              "imageHeight": "70px",
-              "imageRadius": "500"
-            }
-          },
-          "setting": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "marginTop": "0",
-            "marginBottom": "0",
-            "backgroundColor": "#ffffff"
           }
         },
         {
@@ -283,8 +188,8 @@
                 "type": "heading",
                 "content": "عنوان جدید",
                 "style": {
-                  "x": 481.3332926432292,
-                  "y": 21.000000000000004,
+                  "x": 449.3332926432292,
+                  "y": 11.666666666666668,
                   "width": 151.66666666666669,
                   "height": 60,
                   "fontSize": 31,
@@ -302,7 +207,7 @@
                 "type": "image",
                 "content": "",
                 "style": {
-                  "x": 231,
+                  "x": 5,
                   "y": 0,
                   "width": 633.3333333333334,
                   "height": 500,
@@ -719,11 +624,43 @@
             "borderRadious": "20"
           },
           "heading": "آکاردئون های متداول"
+        },
+        {
+          "type": "Banner-dea4624e",
+          "blocks": {
+            "imageSrc": "/assets/images/ban.jpg",
+            "imageAlt": "",
+            "heading": "",
+            "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد\n\n",
+            "text": "",
+            "setting": {
+              "descriptionColor": "#0a0a0a",
+              "descriptionFontSize": "18",
+              "descriptionFontWeight": "bold",
+              "textColor": "#fcfcfc",
+              "textFontSize": "69",
+              "textFontWeight": "bold",
+              "backgroundColorBox": "#eb0fee",
+              "backgroundBoxRadious": "46",
+              "opacityImage": "1",
+              "opacityTextBox": "0.8",
+              "imageRadious": "14",
+              "imageBehavior": "cover"
+            }
+          },
+          "setting": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "marginTop": "0",
+            "marginBottom": "0",
+            "imageBehavior": "contain",
+            "paddingLeft": "0",
+            "paddingRight": "0"
+          }
         }
       ],
       "order": [
-        "Story",
-        "SlideBanner",
+        "Banner-dea4624e",
         "SpecialOffer",
         "OfferRow",
         "CanvasEditor-93e6a0f4",
