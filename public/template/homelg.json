@@ -171,128 +171,6 @@
           }
         },
         {
-          "type": "CanvasEditor-93e6a0f4",
-          "setting": {
-            "paddingTop": "20",
-            "paddingBottom": "20",
-            "paddingLeft": "20",
-            "paddingRight": "20",
-            "marginTop": "30",
-            "marginBottom": "30",
-            "backgroundColor": "#ffffff"
-          },
-          "blocks": {
-            "elements": [
-              {
-                "id": "87237585-bde4-4627-9394-5bc578005c35",
-                "type": "heading",
-                "content": "عنوان جدید",
-                "style": {
-                  "x": 449.3332926432292,
-                  "y": 11.666666666666668,
-                  "width": 151.66666666666669,
-                  "height": 60,
-                  "fontSize": 31,
-                  "fontWeight": "bold",
-                  "color": "#000000",
-                  "backgroundColor": "transparent",
-                  "borderRadius": 0,
-                  "padding": 0,
-                  "textAlign": "right",
-                  "zIndex": 6
-                }
-              },
-              {
-                "id": "85ce446e-8a3f-4737-8237-a9b2cea7c0e3",
-                "type": "image",
-                "content": "",
-                "style": {
-                  "x": 5,
-                  "y": 0,
-                  "width": 633.3333333333334,
-                  "height": 500,
-                  "fontSize": 16,
-                  "fontWeight": "normal",
-                  "color": "#000000",
-                  "backgroundColor": "transparent",
-                  "borderRadius": 43,
-                  "padding": 0,
-                  "textAlign": "right",
-                  "zIndex": 1
-                },
-                "src": "https://www.stratstone.com/-/media/stratstone/blog/2024/top-10-best-supercars-of-2024/mclaren-750s-driving-dynamic-hero-1920x774px.ashx",
-                "alt": "Canvas image"
-              }
-            ],
-            "setting": {
-              "canvasWidth": "100%",
-              "canvasHeight": "500px",
-              "backgroundColor": "#f9fafb",
-              "gridSize": 10,
-              "showGrid": false
-            }
-          }
-        },
-        {
-          "type": "Brands",
-          "blocks": {
-            "heading": "محبوب‌ترین برندها",
-            "brands": [
-              {
-                "id": 1,
-                "name": "سامسونگ",
-                "logo": "/assets/images/samsung.jpg"
-              },
-              {
-                "id": 2,
-                "name": "اپل",
-                "logo": "/assets/images/icons8-apple-logo.svg"
-              },
-              {
-                "id": 3,
-                "name": "هواوی",
-                "logo": "/assets/images/huawei.png"
-              },
-              {
-                "id": 4,
-                "name": "شیائومی",
-                "logo": "/assets/images/mi.png"
-              },
-              {
-                "id": 6,
-                "name": "مای",
-                "logo": "/assets/images/my.png"
-              },
-              {
-                "id": 7,
-                "name": "کینگ استار",
-                "logo": "/assets/images/king.png"
-              }
-            ],
-            "setting": {
-              "headingColor": "#1052e0",
-              "headingFontSize": "60",
-              "headingFontWeight": "bold",
-              "brandNameColor": "#666666",
-              "brandNameFontSize": "16",
-              "brandNameFontWeight": "normal",
-              "cardBackground": "#FFFFFF",
-              "cardBorderRadius": "8",
-              "cardHoverShadow": "lg",
-              "gridColumns": "6",
-              "logoWidth": "96",
-              "logoHeight": "96"
-            }
-          },
-          "setting": {
-            "paddingTop": "2",
-            "paddingBottom": "5",
-            "marginTop": "20",
-            "marginBottom": "20",
-            "backgroundColor": "#FFFFFF"
-          }
-        },
-        {
           "type": "ProductsRow",
           "blocks": {
             "textHeading": " محصولات جدید ",
@@ -385,8 +263,8 @@
         {
           "type": "Gallery-2",
           "blocks": {
-            "title": " ",
-            "description": " ",
+            "title": "گالری",
+            "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد\n\n",
             "images": [
               {
                 "imageSrc": "/assets/images/twinbanner2.webp",
@@ -400,18 +278,18 @@
               }
             ],
             "setting": {
-              "titleColor": "#333333",
-              "titleFontSize": "32",
+              "titleColor": "#f0e0e0",
+              "titleFontSize": "47",
               "titleFontWeight": "bold",
-              "descriptionColor": "#666666",
-              "descriptionFontSize": "16",
+              "descriptionColor": "#f7f7f7",
+              "descriptionFontSize": "17",
               "descriptionFontWeight": "normal",
-              "background": "#ffffff",
-              "imageWidth": "300",
-              "imageHeight": "250",
-              "imageRadius": "8",
-              "gridColumns": "2",
-              "gridGap": "20"
+              "background": "#eb0fee",
+              "imageWidth": "1000",
+              "imageHeight": "400",
+              "imageRadius": "17",
+              "gridColumns": "1",
+              "gridGap": "35"
             }
           },
           "setting": {
@@ -663,10 +541,8 @@
         "Banner-dea4624e",
         "SpecialOffer",
         "OfferRow",
-        "CanvasEditor-93e6a0f4",
         "ProductsRow-2",
         "Gallery",
-        "Brands",
         "Gallery-2",
         "ProductsRow",
         "ImageText-8d6d4e85",
