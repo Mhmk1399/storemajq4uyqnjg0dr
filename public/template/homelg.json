@@ -111,8 +111,8 @@
           "imageWidth": "60",
           "imageHeight": "60",
           "imageRadius": "30",
-          "itemColor": "#6c757d",
-          "itemFontSize": "14",
+          "itemColor": "#ff7d00",
+          "itemFontSize": "16",
           "itemFontWeight": "normal",
           "itemHoverColor": "#e4e4e4",
           "backgroundColorNavbar": "#FCA311",
@@ -123,15 +123,15 @@
           "locationButtonBgColor": "#FFF7ED",
           "locationButtonTextColor": "#EA580C",
           "announcementText": "ارسال رایگان برای خرید‌ بالای ۵۰۰ هزار تومان!",
-          "announcementBgColor": "#e51542",
+          "announcementBgColor": "#15616d",
           "announcementTextColor": "#ffffff",
           "announcementFontSize": "14",
-          "bgColor": "#ffffff",
-          "gap": "10",
-          "megaMenuBg": "#ffffff",
-          "categoryItemColor": "ffffff",
-          "categoryItemSize": "14",
-          "categoryItemHoverColor": "#000000"
+          "bgColor": "#15616d",
+          "gap": "37",
+          "megaMenuBg": "#e31c1c",
+          "categoryItemColor": "#fdf6f6",
+          "categoryItemSize": "0",
+          "categoryItemHoverColor": "#f1f8f8"
         }
       },
       "setting": {
