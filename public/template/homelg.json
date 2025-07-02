@@ -103,7 +103,7 @@
           "imageWidth": "60",
           "imageHeight": "60",
           "imageRadius": "30",
-          "itemColor": "#f5ede6",
+          "itemColor": "#1a1919",
           "itemFontSize": "14",
           "itemFontWeight": "normal",
           "itemHoverColor": "#eb0fbb",
@@ -118,10 +118,10 @@
           "announcementBgColor": "#eb0fbb",
           "announcementTextColor": "#ffffff",
           "announcementFontSize": "14",
-          "bgColor": "#333533",
+          "bgColor": "#ffffff",
           "gap": "31",
           "megaMenuBg": "#fcfcfc",
-          "categoryItemColor": "#121211",
+          "categoryItemColor": "#1c1c17",
           "categoryItemSize": "18",
           "categoryItemHoverColor": "#080808"
         }
