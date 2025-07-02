@@ -477,7 +477,9 @@
             "headingFontSize": "45",
             "headingFontWeight": "lighter",
             "background": "#ffffff",
-            "borderRadious": "20"
+            "borderRadious": "20",
+            "paddingLeft": "150",
+            "paddingRight": "150"
           },
           "heading": "آکاردئون های متداول"
         },
