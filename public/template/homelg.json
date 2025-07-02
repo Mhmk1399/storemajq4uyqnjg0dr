@@ -314,14 +314,14 @@
             "btnLink": "store",
             "setting": {
               "textHeadingColor": "#fcfcfc",
-              "textHeadingFontSize": "56",
-              "textHeadingFontWeight": "normal",
+              "textHeadingFontSize": "46",
+              "textHeadingFontWeight": "bold",
               "descriptionColor": "#ffffff",
               "descriptionFontSize": "16",
-              "descriptionFontWeight": "normal",
+              "descriptionFontWeight": "bold",
               "background": "#eb0fee",
               "btnTextColor": "#582222",
-              "btnBackgroundColor": "#972626",
+              "btnBackgroundColor": "#f3f2f2",
               "lineWidth": "340",
               "lineHeight": "6",
               "lineTop": "-25",
@@ -336,8 +336,8 @@
             "marginBottom": "20",
             "paddinRight": "0",
             "paddinLeft": "0",
-            "paddingLeft": "0",
-            "paddingRight": "0"
+            "paddingLeft": "20",
+            "paddingRight": "20"
           }
         },
         {
@@ -554,6 +554,60 @@
             "btnColor": "#ffffff",
             "btnBackgroundColor": "#1d6bdf"
           }
+        },
+        {
+          "type": "Gallery-0cf7ee41",
+          "blocks": {
+            "imageSrc": "",
+            "imageAlt": "",
+            "heading": "",
+            "description": " ",
+            "title": " ",
+            "images": [
+              {
+                "imageSrc": "/assets/images/digi4baners.webp",
+                "imageAlt": "Gallery Image 1",
+                "imageLink": "#"
+              },
+              {
+                "imageSrc": "/assets/images/digi 4 banners4.webp",
+                "imageAlt": "Gallery Image 2",
+                "imageLink": "#"
+              },
+              {
+                "imageSrc": "/assets/images/digi4banners2.webp",
+                "imageAlt": "Gallery Image 1",
+                "imageLink": "#"
+              },
+              {
+                "imageSrc": "/assets/images/digi4banners3.webp",
+                "imageAlt": "Gallery Image 2",
+                "imageLink": "#"
+              }
+            ],
+            "setting": {
+              "titleColor": "#333333",
+              "titleFontSize": "32",
+              "titleFontWeight": "bold",
+              "descriptionColor": "#666666",
+              "descriptionFontSize": "16",
+              "descriptionFontWeight": "normal",
+              "background": "#ffffff",
+              "imageWidth": "590",
+              "imageHeight": "200",
+              "imageRadius": "8",
+              "gridColumns": "2",
+              "gridGap": "20"
+            }
+          },
+          "setting": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "marginTop": "0",
+            "marginBottom": "0",
+            "paddingRight": "0",
+            "paddingLeft": "0"
+          }
         }
       ],
       "order": [
@@ -565,7 +619,8 @@
         "RichText-51d219c2",
         "MultiRow-1e268611",
         "CollapseFaq-ae258c70",
-        "MultiColumn-bb372a0d"
+        "MultiColumn-bb372a0d",
+        "Gallery-0cf7ee41"
       ]
     },
     "sectionFooter": {
