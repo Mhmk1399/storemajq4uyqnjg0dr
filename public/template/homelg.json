@@ -493,15 +493,15 @@
             "text": "",
             "setting": {
               "descriptionColor": "#f7f7f7",
-              "descriptionFontSize": "16",
+              "descriptionFontSize": "14",
               "descriptionFontWeight": "bold",
               "textColor": "#fcfcfc",
-              "textFontSize": "53",
+              "textFontSize": "44",
               "textFontWeight": "bold",
               "backgroundColorBox": "#eb0fee",
-              "backgroundBoxRadious": "46",
-              "opacityImage": "1",
-              "opacityTextBox": "0.8",
+              "backgroundBoxRadious": "17",
+              "opacityImage": "0.9",
+              "opacityTextBox": "1",
               "imageRadious": "14",
               "imageBehavior": "cover"
             }
@@ -511,7 +511,7 @@
             "paddingBottom": "0",
             "marginTop": "0",
             "marginBottom": "0",
-            "imageBehavior": "contain",
+            "imageBehavior": "cover",
             "paddingLeft": "0",
             "paddingRight": "0"
           }
