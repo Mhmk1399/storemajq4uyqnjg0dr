@@ -655,6 +655,78 @@
             "paddinRight": "0",
             "paddinLeft": "0"
           }
+        },
+        {
+          "type": "CollapseFaq-ae258c70",
+          "blocks": [
+            {
+              "text1": "55555",
+              "content1": "پاسخ سوال متداول 1",
+              "setting": {
+                "textColor1": "#ffffff",
+                "textFontSize1": "70",
+                "textFontWeight1": "bold",
+                "contentColor1": "#FCA311",
+                "contentFontSize1": "16",
+                "contentFontWeight1": "normal"
+              },
+              "links": [],
+              "heading": "5555y555"
+            },
+            {
+              "text2": "سوال متداول 2",
+              "content2": "پاسخ سوال متداول 2",
+              "setting": {
+                "textColor2": "#ffffff",
+                "textFontSize2": "20",
+                "textFontWeight2": "bold",
+                "contentColor2": "#FCA311",
+                "contentFontSize2": "16",
+                "contentFontWeight2": "normal"
+              },
+              "links": []
+            },
+            {
+              "text3": "سوال متداول 3",
+              "content3": "پاسخ سوال متداول 3",
+              "setting": {
+                "textColor3": "#ffffff",
+                "textFontSize3": "20",
+                "textFontWeight3": "bold",
+                "contentColor3": "#FCA311",
+                "contentFontSize3": "16",
+                "contentFontWeight3": "normal"
+              },
+              "links": []
+            },
+            {
+              "text4": "سوال متداول 4",
+              "content4": "پاسخ سوال متداول 4",
+              "setting": {
+                "textColor4": "#ffffff",
+                "textFontSize4": "20",
+                "textFontWeight4": "bold",
+                "contentColor4": "#FCA311",
+                "contentFontSize4": "16",
+                "contentFontWeight4": "normal"
+              },
+              "links": []
+            }
+          ],
+          "setting": {
+            "paddingTop": "30",
+            "paddingBottom": "30",
+            "marginTop": "20",
+            "marginBottom": "20",
+            "paddinRight": "0",
+            "paddinLeft": "0",
+            "headingColor": "#ffffff",
+            "headingFontSize": "30",
+            "headingFontWeight": "bold",
+            "background": "#14213D",
+            "borderRadious": "20"
+          },
+          "heading": "آکاردئون های متداول"
         }
       ],
       "order": [
@@ -669,7 +741,8 @@
         "Gallery-2",
         "ProductsRow",
         "ImageText-8d6d4e85",
-        "RichText-51d219c2"
+        "RichText-51d219c2",
+        "CollapseFaq-ae258c70"
       ]
     },
     "sectionFooter": {
