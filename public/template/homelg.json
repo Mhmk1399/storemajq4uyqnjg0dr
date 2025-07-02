@@ -234,47 +234,6 @@
           }
         },
         {
-          "type": "Gallery-2",
-          "blocks": {
-            "title": "گالری",
-            "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد\n\n",
-            "images": [
-              {
-                "imageSrc": "/assets/images/twinbanner2.webp",
-                "imageAlt": "Gallery Image 1",
-                "imageLink": "#"
-              },
-              {
-                "imageSrc": "/assets/images/twinbanner.webp",
-                "imageAlt": "Gallery Image 2",
-                "imageLink": "#"
-              }
-            ],
-            "setting": {
-              "titleColor": "#fafafa",
-              "titleFontSize": "47",
-              "titleFontWeight": "bold",
-              "descriptionColor": "#f7f7f7",
-              "descriptionFontSize": "17",
-              "descriptionFontWeight": "normal",
-              "background": "#eb0fee",
-              "imageWidth": "1000",
-              "imageHeight": "400",
-              "imageRadius": "17",
-              "gridColumns": "1",
-              "gridGap": "35"
-            }
-          },
-          "setting": {
-            "paddingTop": "25",
-            "paddingBottom": "57",
-            "marginTop": "5",
-            "marginBottom": "5",
-            "paddingRight": "0",
-            "paddingLeft": "0"
-          }
-        },
-        {
           "type": "CanvasEditor-93e6a0f4",
           "setting": {
             "paddingTop": "20",
@@ -393,8 +352,8 @@
               "background": "#eb0fee",
               "btnTextColor": "#2b2b2b",
               "btnBackgroundColor": "#fffafa",
-              "lineWidth": "2",
-              "lineHeight": "200",
+              "lineWidth": "607",
+              "lineHeight": "3",
               "lineTop": "-22",
               "lineBottom": "4",
               "lineColor": "#ffffff"
@@ -574,7 +533,6 @@
         "OfferRow",
         "ProductsRow-2",
         "Gallery",
-        "Gallery-2",
         "ImageText-8d6d4e85",
         "RichText-51d219c2",
         "MultiRow-1e268611",
