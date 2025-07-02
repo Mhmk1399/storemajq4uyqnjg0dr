@@ -419,7 +419,12 @@
               "descriptionFontWeight": "normal",
               "background": "#14213D",
               "btnTextColor": "#ffffff",
-              "btnBackgroundColor": "#FCA311"
+              "btnBackgroundColor": "#FCA311",
+              "lineWidth": "997",
+              "lineHeight": "2",
+              "lineTop": "0",
+              "lineBottom": "5",
+              "lineColor": "#2bf702"
             }
           },
           "setting": {
