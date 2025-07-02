@@ -95,16 +95,8 @@
             "url": "/contact"
           },
           {
-            "name": "تخفیف‌ها",
-            "url": "/discounts"
-          },
-          {
             "name": "سوالات متداول",
             "url": "/faq"
-          },
-          {
-            "name": "تبلیغات",
-            "url": "/ads"
           }
         ],
         "setting": {
@@ -123,15 +115,15 @@
           "locationButtonBgColor": "#FFF7ED",
           "locationButtonTextColor": "#EA580C",
           "announcementText": "ارسال رایگان برای خرید‌ بالای ۵۰۰ هزار تومان!",
-          "announcementBgColor": "#15616d",
-          "announcementTextColor": "#ffffff",
-          "announcementFontSize": "14",
-          "bgColor": "#15616d",
+          "announcementBgColor": "#f3f3ee",
+          "announcementTextColor": "#0f0f0f",
+          "announcementFontSize": "23",
+          "bgColor": "#f3f3ee",
           "gap": "37",
-          "megaMenuBg": "#e31c1c",
-          "categoryItemColor": "#fdf6f6",
-          "categoryItemSize": "0",
-          "categoryItemHoverColor": "#f1f8f8"
+          "megaMenuBg": "#fcfcfc",
+          "categoryItemColor": "#ff7d00",
+          "categoryItemSize": "27",
+          "categoryItemHoverColor": "#080808"
         }
       },
       "setting": {
@@ -139,7 +131,7 @@
         "paddingBottom": "0",
         "paddingLeft": "0",
         "paddingRight": "0",
-        "marginTop": "",
+        "marginTop": "0",
         "marginBottom": "0",
         "navbarPosition": "fixed",
         "bgColor": "#ffffff"
