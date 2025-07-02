@@ -171,33 +171,6 @@
           }
         },
         {
-          "type": "ProductsRow",
-          "blocks": {
-            "textHeading": " محصولات جدید ",
-            "setting": {
-              "selectedCollection": "67b341e8193d4de634d00fec",
-              "headingColor": "#000000",
-              "headingFontSize": "22",
-              "headingFontWeight": "bold",
-              "productNameColor": "#000000",
-              "priceColor": "#EF394E",
-              "descriptionColor": "#666666",
-              "btnBg": "#EF394E",
-              "btnTextColor": "#ffffff",
-              "cardBorderRadius": "8"
-            }
-          },
-          "setting": {
-            "paddingTop": "30",
-            "paddingBottom": "30",
-            "marginTop": "20",
-            "marginBottom": "20",
-            "backgroundColor": "#ffffff",
-            "paddingLeft": "10",
-            "paddingRight": "10"
-          }
-        },
-        {
           "type": "CanvasEditor-93e6a0f4",
           "setting": {
             "paddingTop": "20",
@@ -549,7 +522,6 @@
         "ProductsRow-2",
         "Gallery",
         "Gallery-2",
-        "ProductsRow",
         "ImageText-8d6d4e85",
         "RichText-51d219c2",
         "CollapseFaq-ae258c70"
