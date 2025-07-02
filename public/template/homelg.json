@@ -537,18 +537,18 @@
           "descriptionColor": "#000000",
           "descriptionFontSize": "18",
           "descriptionFontWeight": "normal",
-          "trustIconBackground": "#e4e4e4",
+          "trustIconBackground": "#eb0fee",
           "trustIconColor": "#ffffff",
           "trustItemSize": "15",
           "trustItemColor": "bold",
-          "scrollButtonBg": "#8684f1",
+          "scrollButtonBg": "#eb0fee",
           "scrollButtonColor": "#fffafa",
           "categoryColor": "#000000",
           "linkColor": "#0077b6",
           "logoWidth": "80",
           "logoHeight": "80",
           "logoRadius": "10",
-          "categoryBg": "#ffffff"
+          "categoryBg": "#e7dfdf"
         },
         "text": "سربرگ قسمت پایین سایت",
         "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد",
@@ -567,7 +567,7 @@
         "marginBottom": "20",
         "paddinRight": "0",
         "paddinLeft": "0",
-        "backgroundColor": "#e30d0d"
+        "backgroundColor": "#ffffff"
       }
     }
   },
