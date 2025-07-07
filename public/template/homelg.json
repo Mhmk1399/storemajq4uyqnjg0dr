@@ -434,7 +434,21 @@
               "opacityImage": "0.9",
               "opacityTextBox": "0.8",
               "imageRadious": "14",
-              "imageBehavior": "cover"
+              "imageBehavior": "cover",
+              "animations": {
+                "effects": [
+                  {
+                    "type": "click",
+                    "animation": {
+                      "type": "pulse",
+                      "duration": "1s",
+                      "timing": "cubic-bezier(0, 0, 0.2, 1)",
+                      "delay": "0s",
+                      "iterationCount": "2"
+                    }
+                  }
+                ]
+              }
             }
           },
           "setting": {
