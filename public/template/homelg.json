@@ -633,6 +633,42 @@
             "paddingRight": "0",
             "paddingLeft": "0"
           }
+        },
+        {
+          "type": "ContactForm-aaf2234d",
+          "blocks": {
+            "imageSrc": "",
+            "imageAlt": "",
+            "heading": "فرم ارتباط با ما",
+            "description": "",
+            "setting": {
+              "headingColor": "#ee2b2b",
+              "headingFontSize": "79",
+              "headingFontWeight": "lighter",
+              "btnBackgroundColor": "#30529c",
+              "btnTextColor": "#e5d7d7",
+              "formBackground": "#fdb23a",
+              "btnAnimation": {
+                "type": "hover",
+                "animation": {
+                  "type": "opacity",
+                  "duration": "1s",
+                  "timing": "ease-in-out",
+                  "delay": "0s",
+                  "iterationCount": "1",
+                  "intensity": "normal"
+                }
+              }
+            }
+          },
+          "setting": {
+            "paddingTop": "30",
+            "paddingBottom": "30",
+            "marginTop": "20",
+            "marginBottom": "20",
+            "paddinRight": "0",
+            "paddinLeft": "0"
+          }
         }
       ],
       "order": [
@@ -645,7 +681,8 @@
         "MultiRow-1e268611",
         "CollapseFaq-ae258c70",
         "MultiColumn-bb372a0d",
-        "Gallery-0cf7ee41"
+        "Gallery-0cf7ee41",
+        "ContactForm-aaf2234d"
       ]
     },
     "sectionFooter": {
