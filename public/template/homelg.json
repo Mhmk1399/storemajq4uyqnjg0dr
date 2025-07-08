@@ -448,6 +448,17 @@
                     }
                   }
                 ]
+              },
+              "animation": {
+                "type": "hover",
+                "animation": {
+                  "type": "pulse",
+                  "duration": "1.5s",
+                  "timing": "ease-in-out",
+                  "delay": "0s",
+                  "iterationCount": "1",
+                  "intensity": "normal"
+                }
               }
             }
           },
