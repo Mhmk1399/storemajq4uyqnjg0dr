@@ -452,7 +452,7 @@
               "animation": {
                 "type": "hover",
                 "animation": {
-                  "type": "pulse",
+                  "type": "blur",
                   "duration": "1.5s",
                   "timing": "ease-in-out",
                   "delay": "0s",
