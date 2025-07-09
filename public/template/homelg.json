@@ -527,36 +527,29 @@
           "type": "MultiColumn-bb372a0d",
           "blocks": {
             "0": {
-              "title1": "ستون یکم",
+              "title1": "ستون دو",
               "description1": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد",
-              "imageSrc1": "/assets/images/banner1.jpg",
-              "imageAlt1": "",
+              "imageSrc1": "/assets/images/banner3.jpg",
               "btnLable1": "",
               "btnLink1": ""
             },
             "1": {
-              "title2": "ستون دو",
+              "title2": "ستون  2",
               "description2": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد",
-              "imageSrc2": "/assets/images/banner3.jpg",
-              "imageAlt2": "",
-              "btnLable2": "",
-              "btnLink2": ""
+              "imageSrc2": "",
+              "btnLable2": "دکمه 2",
+              "btnLink2": "#"
             },
             "2": {
-              "title3": "ستون سوم",
+              "title3": "ستون  3",
               "description3": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد",
-              "imageSrc3": "/assets/images/banner.jpg",
-              "imageAlt3": "",
-              "btnLable3": "",
-              "btnLink3": ""
-            },
-            "imageSrc": "",
-            "imageAlt": "",
-            "heading": "",
-            "description": ""
+              "imageSrc3": "",
+              "btnLable3": "دکمه 3",
+              "btnLink3": "#"
+            }
           },
           "setting": {
-            "heading": "سربرگ ستون ها",
+            "heading": "jyy",
             "paddingTop": "30",
             "paddingBottom": "30",
             "marginTop": "20",
@@ -564,14 +557,14 @@
             "paddinRight": "0",
             "paddinLeft": "0",
             "backgroundColorBox": "#E5E5E5",
-            "headingFontSize": "40",
+            "headingFontSize": "56",
             "headingFontWeight": "bold",
             "headingColor": "#1d6bdf",
             "imageRadious": "10",
             "imageWidth": "400",
             "imageHeight": "300",
-            "titleColor": "#ffffff",
-            "titleFontSize": "25",
+            "titleColor": "#c90d0d",
+            "titleFontSize": "31",
             "titleFontWeight": "bold",
             "descriptionColor": "#000000",
             "descriptionFontSize": "18",
@@ -680,64 +673,6 @@
             "paddinRight": "0",
             "paddinLeft": "0"
           }
-        },
-        {
-          "type": "ImageText-b526819c",
-          "blocks": {
-            "imageSrc": "/assets/images/banner3.jpg",
-            "imageAlt": "",
-            "heading": "سربرگufcjvjchxhx محصول",
-            "description": "توضیحات درباره محصول",
-            "btnLink": "/",
-            "btnText": "دکمه",
-            "setting": {
-              "headingColor": "#FCA311",
-              "headingFontSize": "60",
-              "headingFontWeight": "bold",
-              "descriptionColor": "#E5E5E5",
-              "descriptionFontSize": "29",
-              "descriptionFontWeight": "normal",
-              "btnTextColor": "#14213D",
-              "btnBackgroundColor": "#FFFFFF",
-              "backgroundColorBox": "",
-              "backgroundBoxOpacity": 0.9,
-              "boxRadiuos": "20",
-              "opacityImage": 1,
-              "imageWidth": "565",
-              "imageHeight": "424",
-              "background": "#14213D",
-              "imageAnimation": {
-                "type": "hover",
-                "animation": {
-                  "type": "glow",
-                  "duration": "1s",
-                  "timing": "ease-in-out",
-                  "delay": "0s",
-                  "iterationCount": "1",
-                  "intensity": "normal"
-                }
-              },
-              "buttonAnimation": {
-                "type": "hover",
-                "animation": {
-                  "type": "blur",
-                  "duration": "1s",
-                  "timing": "ease-in-out",
-                  "delay": "0s",
-                  "iterationCount": "1",
-                  "intensity": "normal"
-                }
-              }
-            }
-          },
-          "setting": {
-            "paddingTop": "30",
-            "paddingBottom": "30",
-            "marginTop": "20",
-            "marginBottom": "20",
-            "paddinRight": "0",
-            "paddinLeft": "0"
-          }
         }
       ],
       "order": [
@@ -751,8 +686,7 @@
         "CollapseFaq-ae258c70",
         "MultiColumn-bb372a0d",
         "Gallery-0cf7ee41",
-        "ContactForm-aaf2234d",
-        "ImageText-b526819c"
+        "ContactForm-aaf2234d"
       ]
     },
     "sectionFooter": {
