@@ -622,7 +622,18 @@
               "imageHeight": "200",
               "imageRadius": "8",
               "gridColumns": "2",
-              "gridGap": "20"
+              "gridGap": "20",
+              "imageAnimation": {
+                "type": "hover",
+                "animation": {
+                  "type": "blur",
+                  "duration": "1s",
+                  "timing": "ease-in-out",
+                  "delay": "0s",
+                  "iterationCount": "1",
+                  "intensity": "normal"
+                }
+              }
             }
           },
           "setting": {
@@ -669,6 +680,64 @@
             "paddinRight": "0",
             "paddinLeft": "0"
           }
+        },
+        {
+          "type": "ImageText-b526819c",
+          "blocks": {
+            "imageSrc": "/assets/images/banner3.jpg",
+            "imageAlt": "",
+            "heading": "سربرگufcjvjchxhx محصول",
+            "description": "توضیحات درباره محصول",
+            "btnLink": "/",
+            "btnText": "دکمه",
+            "setting": {
+              "headingColor": "#FCA311",
+              "headingFontSize": "60",
+              "headingFontWeight": "bold",
+              "descriptionColor": "#E5E5E5",
+              "descriptionFontSize": "29",
+              "descriptionFontWeight": "normal",
+              "btnTextColor": "#14213D",
+              "btnBackgroundColor": "#FFFFFF",
+              "backgroundColorBox": "",
+              "backgroundBoxOpacity": 0.9,
+              "boxRadiuos": "20",
+              "opacityImage": 1,
+              "imageWidth": "565",
+              "imageHeight": "424",
+              "background": "#14213D",
+              "imageAnimation": {
+                "type": "hover",
+                "animation": {
+                  "type": "glow",
+                  "duration": "1s",
+                  "timing": "ease-in-out",
+                  "delay": "0s",
+                  "iterationCount": "1",
+                  "intensity": "normal"
+                }
+              },
+              "buttonAnimation": {
+                "type": "hover",
+                "animation": {
+                  "type": "blur",
+                  "duration": "1s",
+                  "timing": "ease-in-out",
+                  "delay": "0s",
+                  "iterationCount": "1",
+                  "intensity": "normal"
+                }
+              }
+            }
+          },
+          "setting": {
+            "paddingTop": "30",
+            "paddingBottom": "30",
+            "marginTop": "20",
+            "marginBottom": "20",
+            "paddinRight": "0",
+            "paddinLeft": "0"
+          }
         }
       ],
       "order": [
@@ -682,7 +751,8 @@
         "CollapseFaq-ae258c70",
         "MultiColumn-bb372a0d",
         "Gallery-0cf7ee41",
-        "ContactForm-aaf2234d"
+        "ContactForm-aaf2234d",
+        "ImageText-b526819c"
       ]
     },
     "sectionFooter": {
