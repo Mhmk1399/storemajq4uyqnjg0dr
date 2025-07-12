@@ -287,10 +287,32 @@
               "backgroundColorBox": "",
               "backgroundBoxOpacity": 0.9,
               "boxRadiuos": "62",
-              "opacityImage": "0.9",
-              "imageWidth": "55",
-              "imageHeight": "35",
-              "background": "#f0f0f0"
+              "opacityImage": "1",
+              "imageWidth": "794",
+              "imageHeight": "280",
+              "background": "#f0f0f0",
+              "imageAnimation": {
+                "type": "hover",
+                "animation": {
+                  "type": "glow",
+                  "duration": "1.7s",
+                  "timing": "ease-in",
+                  "delay": "0s",
+                  "iterationCount": "1",
+                  "intensity": "normal"
+                }
+              },
+              "buttonAnimation": {
+                "type": "hover",
+                "animation": {
+                  "type": "blur",
+                  "duration": "1s",
+                  "timing": "ease-in-out",
+                  "delay": "0s",
+                  "iterationCount": "1",
+                  "intensity": "normal"
+                }
+              }
             }
           },
           "setting": {
