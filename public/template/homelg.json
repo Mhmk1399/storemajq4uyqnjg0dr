@@ -740,13 +740,13 @@
         {
           "type": "CanvasEditor-2b9464b8",
           "setting": {
-            "paddingTop": "20",
+            "paddingTop": "34",
             "paddingBottom": "20",
             "paddingLeft": "20",
             "paddingRight": "20",
             "marginTop": "30",
             "marginBottom": "30",
-            "backgroundColor": "#ffffff"
+            "backgroundColor": "#bf0d0d"
           },
           "blocks": {
             "elements": [
@@ -806,15 +806,15 @@
                   "textAlign": "center",
                   "zIndex": 1
                 },
-                "href": "#",
+                "href": "/hjjyj",
                 "animation": {
                   "type": "hover",
                   "animation": {
-                    "type": "pulse",
+                    "type": "",
                     "duration": "1s",
                     "timing": "ease-in-out",
                     "delay": "0s",
-                    "iterationCount": "1",
+                    "iterationCount": "infinite",
                     "intensity": "normal"
                   }
                 }
@@ -854,8 +854,8 @@
                 "type": "image",
                 "content": "",
                 "style": {
-                  "x": 151.00000381469727,
-                  "y": 276,
+                  "x": 131.00000381469727,
+                  "y": 461,
                   "width": 1016,
                   "height": 224,
                   "fontSize": 16,
@@ -872,11 +872,11 @@
                 "animation": {
                   "type": "hover",
                   "animation": {
-                    "type": "pulse",
+                    "type": "blur",
                     "duration": "1s",
                     "timing": "ease-in-out",
                     "delay": "0s",
-                    "iterationCount": "1",
+                    "iterationCount": "infinite",
                     "intensity": "normal"
                   }
                 }
@@ -884,8 +884,8 @@
             ],
             "setting": {
               "canvasWidth": "100%",
-              "canvasHeight": "500px",
-              "backgroundColor": "#f9fafb",
+              "canvasHeight": "1000px",
+              "backgroundColor": "#0773df",
               "gridSize": 10,
               "showGrid": true
             }
