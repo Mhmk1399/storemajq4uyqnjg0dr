@@ -456,7 +456,7 @@
                   "duration": "1.5s",
                   "timing": "ease-in-out",
                   "delay": "0s",
-                  "iterationCount": "1",
+                  "iterationCount": "5",
                   "intensity": "normal"
                 }
               }
