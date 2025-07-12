@@ -546,56 +546,6 @@
           }
         },
         {
-          "type": "MultiColumn-bb372a0d",
-          "blocks": {
-            "0": {
-              "title1": "ستون دو",
-              "description1": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد",
-              "imageSrc1": "/assets/images/banner3.jpg",
-              "btnLable1": "",
-              "btnLink1": ""
-            },
-            "1": {
-              "title2": "ستون  2",
-              "description2": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد",
-              "imageSrc2": "",
-              "btnLable2": "دکمه 2",
-              "btnLink2": "#"
-            },
-            "2": {
-              "title3": "ستون  3",
-              "description3": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد",
-              "imageSrc3": "",
-              "btnLable3": "دکمه 3",
-              "btnLink3": "#"
-            }
-          },
-          "setting": {
-            "heading": "jyy",
-            "paddingTop": "30",
-            "paddingBottom": "30",
-            "marginTop": "20",
-            "marginBottom": "20",
-            "paddinRight": "0",
-            "paddinLeft": "0",
-            "backgroundColorBox": "#E5E5E5",
-            "headingFontSize": "56",
-            "headingFontWeight": "bold",
-            "headingColor": "#1d6bdf",
-            "imageRadious": "10",
-            "imageWidth": "400",
-            "imageHeight": "300",
-            "titleColor": "#c90d0d",
-            "titleFontSize": "31",
-            "titleFontWeight": "bold",
-            "descriptionColor": "#000000",
-            "descriptionFontSize": "18",
-            "descriptionFontWeight": "normal",
-            "btnColor": "#ffffff",
-            "btnBackgroundColor": "#1d6bdf"
-          }
-        },
-        {
           "type": "Gallery-0cf7ee41",
           "blocks": {
             "imageSrc": "",
@@ -901,7 +851,6 @@
         "RichText-51d219c2",
         "MultiRow-1e268611",
         "CollapseFaq-ae258c70",
-        "MultiColumn-bb372a0d",
         "Gallery-0cf7ee41",
         "ContactForm-aaf2234d",
         "SlideShow-f942c020",
