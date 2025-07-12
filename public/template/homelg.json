@@ -840,9 +840,72 @@
               "showGrid": true
             }
           }
+        },
+        {
+          "type": "Brands-eb43b5af",
+          "blocks": {
+            "imageSrc": "",
+            "imageAlt": "",
+            "heading": "محبوب‌ترین برندها",
+            "description": "",
+            "brands": [
+              {
+                "id": 1,
+                "name": "سامسونگ",
+                "logo": "/assets/images/samsung.jpg"
+              },
+              {
+                "id": 2,
+                "name": "اپل",
+                "logo": "/assets/images/icons8-apple-logo.svg"
+              },
+              {
+                "id": 3,
+                "name": "هواوی",
+                "logo": "/assets/images/huawei.png"
+              },
+              {
+                "id": 4,
+                "name": "شیائومی",
+                "logo": "/assets/images/mi.png"
+              },
+              {
+                "id": 6,
+                "name": "مای",
+                "logo": "/assets/images/my.png"
+              },
+              {
+                "id": 7,
+                "name": "کینگ استار",
+                "logo": "/assets/images/king.png"
+              }
+            ],
+            "setting": {
+              "headingColor": "#14213D",
+              "headingFontSize": "32",
+              "headingFontWeight": "bold",
+              "brandNameColor": "#666666",
+              "brandNameFontSize": "16",
+              "brandNameFontWeight": "normal",
+              "cardBackground": "#FFFFFF",
+              "cardBorderRadius": "8",
+              "cardHoverShadow": "lg",
+              "gridColumns": "6",
+              "logoWidth": "96",
+              "logoHeight": "96"
+            }
+          },
+          "setting": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "marginTop": "20",
+            "marginBottom": "20",
+            "backgroundColor": "#FFFFFF"
+          }
         }
       ],
       "order": [
+        "Brands-eb43b5af",
         "Banner-dea4624e",
         "OfferRow",
         "ProductsRow-2",
