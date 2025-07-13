@@ -924,18 +924,7 @@
             "descriptionFontSize": "18",
             "descriptionFontWeight": "normal",
             "btnColor": "#ffffff",
-            "btnBackgroundColor": "#1d6bdf",
-            "btnAnimation": {
-              "type": "hover",
-              "animation": {
-                "type": "shadow",
-                "duration": "1s",
-                "timing": "ease-in-out",
-                "delay": "0s",
-                "iterationCount": "1",
-                "intensity": "normal"
-              }
-            }
+            "btnBackgroundColor": "#1d6bdf"
           }
         },
         {
@@ -1091,6 +1080,92 @@
               "inactiveDotColor": "#000000"
             }
           }
+        },
+        {
+          "type": "SpecialOffer-318025f0",
+          "blocks": {
+            "imageSrc": "",
+            "imageAlt": "",
+            "heading": "",
+            "description": "",
+            "textHeading": "پیشنهاد شگفت‌ انگیز",
+            "setting": {
+              "headingColor": "#FFFFFF",
+              "headingFontSize": "32",
+              "headingFontWeight": "bold",
+              "productNameColor": "#000000",
+              "priceColor": "#EF394E",
+              "descriptionColor": "#666666",
+              "btnBg": "#EF394E",
+              "btnTextColor": "#ffffff",
+              "cardBackground": "#EF394E",
+              "cardBorderRadius": "8",
+              "imageRadius": "8",
+              "gridColumns": "4",
+              "selectedCollection": "67b341e8193d4de634d00fec"
+            }
+          },
+          "setting": {
+            "paddingTop": "30",
+            "paddingBottom": "30",
+            "marginTop": "20",
+            "marginBottom": "20",
+            "backgroundColor": "#EF394E",
+            "paddingLeft": "10",
+            "paddingRight": "10"
+          }
+        },
+        {
+          "type": "Story-f9e367a4",
+          "blocks": {
+            "imageSrc": "",
+            "imageAlt": "",
+            "heading": "",
+            "description": "",
+            "stories": [
+              {
+                "id": "1",
+                "imageUrl": "/assets/images/pro1.jpg",
+                "title": "تخفیف ویژه",
+                "link": "/special-offers"
+              },
+              {
+                "id": "2",
+                "imageUrl": "/assets/images/pro2.jpg",
+                "title": "جدیدترین‌ها",
+                "link": "/new-arrivals"
+              },
+              {
+                "id": "3",
+                "imageUrl": "/assets/images/pro3.jpg",
+                "title": "پیشنهاد روز",
+                "link": "/daily-deals"
+              },
+              {
+                "id": "4",
+                "imageUrl": "/assets/images/pro4.jpg",
+                "title": "پیشنهاد روز",
+                "link": "/daily-deals"
+              }
+            ],
+            "setting": {
+              "storyRingColor": "#1447e1",
+              "viewedRingColor": "#e0e0e0",
+              "titleColor": "#666666",
+              "titleFontSize": "19",
+              "titleFontWeight": "normal",
+              "imageWidth": "70px",
+              "imageHeight": "70px",
+              "imageRadius": "500"
+            }
+          },
+          "setting": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "marginTop": "0",
+            "marginBottom": "0",
+            "backgroundColor": "#ffffff"
+          }
         }
       ],
       "order": [
@@ -1111,7 +1186,9 @@
         "NewsLetter-75bbe9c1",
         "OfferRow-42eaa9a2",
         "ProductsRow-debc8b40",
-        "SlideBanner-2563662e"
+        "SlideBanner-2563662e",
+        "SpecialOffer-318025f0",
+        "Story-f9e367a4"
       ]
     },
     "sectionFooter": {
