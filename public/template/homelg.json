@@ -924,7 +924,47 @@
             "descriptionFontSize": "18",
             "descriptionFontWeight": "normal",
             "btnColor": "#ffffff",
-            "btnBackgroundColor": "#1d6bdf"
+            "btnBackgroundColor": "#1d6bdf",
+            "btnAnimation": {
+              "type": "hover",
+              "animation": {
+                "type": "shadow",
+                "duration": "1s",
+                "timing": "ease-in-out",
+                "delay": "0s",
+                "iterationCount": "1",
+                "intensity": "normal"
+              }
+            }
+          }
+        },
+        {
+          "type": "NewsLetter-75bbe9c1",
+          "blocks": {
+            "imageSrc": "",
+            "imageAlt": "",
+            "heading": "عضویت در خبرنامه",
+            "description": "توضیحات درباره خبرنامه",
+            "btnText": "ثبت نام",
+            "setting": {
+              "headingColor": "#ffffff",
+              "headingFontSize": "27",
+              "headingFontWeight": "bold",
+              "descriptionColor": "#e4e4e4",
+              "descriptionFontSize": "18",
+              "descriptionFontWeight": "normal",
+              "btnBackgroundColor": "#ffffff",
+              "btnTextColor": "#000000",
+              "formBackground": "#1d6bdf"
+            }
+          },
+          "setting": {
+            "paddingTop": "30",
+            "paddingBottom": "30",
+            "marginTop": "20",
+            "marginBottom": "20",
+            "paddinRight": "0",
+            "paddinLeft": "0"
           }
         }
       ],
@@ -942,7 +982,8 @@
         "ContactForm-aaf2234d",
         "SlideShow-f942c020",
         "CanvasEditor-2b9464b8",
-        "MultiColumn-243a30b6"
+        "MultiColumn-243a30b6",
+        "NewsLetter-75bbe9c1"
       ]
     },
     "sectionFooter": {
