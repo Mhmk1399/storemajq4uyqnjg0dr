@@ -277,7 +277,7 @@
             "btnText": "دکمه",
             "setting": {
               "headingColor": "#5c5c5c",
-              "headingFontSize": "50",
+              "headingFontSize": "33",
               "headingFontWeight": "bold",
               "descriptionColor": "#eb0fee",
               "descriptionFontSize": "15",
@@ -288,31 +288,9 @@
               "backgroundBoxOpacity": 0.9,
               "boxRadiuos": "62",
               "opacityImage": "1",
-              "imageWidth": "794",
-              "imageHeight": "280",
-              "background": "#f0f0f0",
-              "imageAnimation": {
-                "type": "hover",
-                "animation": {
-                  "type": "glow",
-                  "duration": "1.7s",
-                  "timing": "ease-in",
-                  "delay": "0s",
-                  "iterationCount": "1",
-                  "intensity": "normal"
-                }
-              },
-              "buttonAnimation": {
-                "type": "hover",
-                "animation": {
-                  "type": "blur",
-                  "duration": "1s",
-                  "timing": "ease-in-out",
-                  "delay": "0s",
-                  "iterationCount": "1",
-                  "intensity": "normal"
-                }
-              }
+              "imageWidth": "354",
+              "imageHeight": "600",
+              "background": "#f0f0f0"
             }
           },
           "setting": {
@@ -551,8 +529,8 @@
             "imageSrc": "",
             "imageAlt": "",
             "heading": "",
-            "description": " ",
-            "title": " ",
+            "description": " scscscsc",
+            "title": " scscsc",
             "images": [
               {
                 "imageSrc": "/assets/images/digi4baners.webp",
@@ -577,28 +555,17 @@
             ],
             "setting": {
               "titleColor": "#333333",
-              "titleFontSize": "32",
+              "titleFontSize": "38",
               "titleFontWeight": "bold",
               "descriptionColor": "#666666",
-              "descriptionFontSize": "16",
+              "descriptionFontSize": "30",
               "descriptionFontWeight": "normal",
               "background": "#ffffff",
               "imageWidth": "590",
               "imageHeight": "200",
-              "imageRadius": "8",
+              "imageRadius": "9",
               "gridColumns": "2",
-              "gridGap": "20",
-              "imageAnimation": {
-                "type": "hover",
-                "animation": {
-                  "type": "blur",
-                  "duration": "1s",
-                  "timing": "ease-in-out",
-                  "delay": "0s",
-                  "iterationCount": "1",
-                  "intensity": "normal"
-                }
-              }
+              "gridGap": "23"
             }
           },
           "setting": {
@@ -902,6 +869,63 @@
             "marginBottom": "20",
             "backgroundColor": "#FFFFFF"
           }
+        },
+        {
+          "type": "MultiColumn-243a30b6",
+          "blocks": {
+            "0": {
+              "title1": "ستون یکم",
+              "description1": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد",
+              "imageSrc1": "/assets/images/banner1.jpg",
+              "imageAlt1": "",
+              "btnLable1": "",
+              "btnLink1": ""
+            },
+            "1": {
+              "title2": "ستون دو",
+              "description2": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد",
+              "imageSrc2": "/assets/images/banner3.jpg",
+              "imageAlt2": "",
+              "btnLable2": "",
+              "btnLink2": ""
+            },
+            "2": {
+              "title3": "ستون سوم",
+              "description3": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد",
+              "imageSrc3": "/assets/images/banner.jpg",
+              "imageAlt3": "",
+              "btnLable3": "",
+              "btnLink3": ""
+            },
+            "imageSrc": "",
+            "imageAlt": "",
+            "heading": "",
+            "description": ""
+          },
+          "setting": {
+            "heading": "سربرگ ستون ها",
+            "paddingTop": "30",
+            "paddingBottom": "30",
+            "marginTop": "20",
+            "marginBottom": "20",
+            "paddinRight": "0",
+            "paddinLeft": "0",
+            "backgroundColorBox": "#E5E5E5",
+            "headingFontSize": "40",
+            "headingFontWeight": "bold",
+            "headingColor": "#1d6bdf",
+            "imageRadious": "10",
+            "imageWidth": "400",
+            "imageHeight": "300",
+            "titleColor": "#ffffff",
+            "titleFontSize": "25",
+            "titleFontWeight": "bold",
+            "descriptionColor": "#000000",
+            "descriptionFontSize": "18",
+            "descriptionFontWeight": "normal",
+            "btnColor": "#ffffff",
+            "btnBackgroundColor": "#1d6bdf"
+          }
         }
       ],
       "order": [
@@ -917,7 +941,8 @@
         "Gallery-0cf7ee41",
         "ContactForm-aaf2234d",
         "SlideShow-f942c020",
-        "CanvasEditor-2b9464b8"
+        "CanvasEditor-2b9464b8",
+        "MultiColumn-243a30b6"
       ]
     },
     "sectionFooter": {
