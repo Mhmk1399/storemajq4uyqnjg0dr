@@ -955,7 +955,18 @@
               "descriptionFontWeight": "normal",
               "btnBackgroundColor": "#ffffff",
               "btnTextColor": "#000000",
-              "formBackground": "#1d6bdf"
+              "formBackground": "#1d6bdf",
+              "btnAnimation": {
+                "type": "hover",
+                "animation": {
+                  "type": "pulse",
+                  "duration": "1s",
+                  "timing": "ease-in-out",
+                  "delay": "0s",
+                  "iterationCount": "1",
+                  "intensity": "normal"
+                }
+              }
             }
           },
           "setting": {
@@ -965,6 +976,35 @@
             "marginBottom": "20",
             "paddinRight": "0",
             "paddinLeft": "0"
+          }
+        },
+        {
+          "type": "OfferRow-42eaa9a2",
+          "blocks": {
+            "imageSrc": "",
+            "imageAlt": "",
+            "heading": "",
+            "description": "",
+            "offers": [],
+            "setting": {
+              "titleColor": "#22C55E",
+              "titleText": "شگفت‌انگیز سوپرمارکتی",
+              "buttonColor": "#ffffff",
+              "buttonTextColor": "#000000",
+              "gradientFromColor": "#f3f4f6",
+              "gradientToColor": "#e5e7eb",
+              "buttonText": "مشاهده همه",
+              "buttonLink": "/special-offers",
+              "selectedCollection": "67b341e8193d4de634d00fec"
+            }
+          },
+          "setting": {
+            "paddingTop": "20",
+            "paddingBottom": "20",
+            "marginTop": "10",
+            "marginBottom": "10",
+            "backgroundColor": "#ffffff",
+            "buttonText": "مشاهده همه"
           }
         }
       ],
@@ -983,7 +1023,8 @@
         "SlideShow-f942c020",
         "CanvasEditor-2b9464b8",
         "MultiColumn-243a30b6",
-        "NewsLetter-75bbe9c1"
+        "NewsLetter-75bbe9c1",
+        "OfferRow-42eaa9a2"
       ]
     },
     "sectionFooter": {
